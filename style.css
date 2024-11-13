@@ -1,0 +1,35 @@
+body {
+    font-family: 'Arial', sans-serif;
+   }
+   
+   .gift-icon {
+    font-size: 2em;
+    margin-right: 5px;
+   }
+   #neaty{
+    color: white;
+    margin-left: 13px;
+   }
+   .sticky-top {
+    z-index: 10; 
+   }
+   #himg{
+    height: 460px;
+    width: 250px;
+   }
+   
+   .btn{
+    background-color: rgb(9, 42, 125);
+    color: white;
+    height: 50px;
+    width: 200px;
+    border-radius: none;
+
+   }
+   #nav{
+    background-color:rgb(9, 42, 125) ;
+   }
+   #title{
+    color: rgb(8, 94, 125);
+   }
+   
